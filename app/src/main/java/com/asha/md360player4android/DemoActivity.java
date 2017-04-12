@@ -33,6 +33,12 @@ public class DemoActivity extends AppCompatActivity {
      * @param savedInstanceState
      */
 
+    /**
+     * feature-2
+     * display HelloWorld
+     * @param savedInstanceState
+     */
+
     @SuppressWarnings("ResourceType")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
