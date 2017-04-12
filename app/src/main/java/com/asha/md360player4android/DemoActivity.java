@@ -26,6 +26,13 @@ public class DemoActivity extends AppCompatActivity {
     private Button bt_Recard;
     private EditText et;
 
+
+    /**
+     * feature-1
+     * display HelloWorld
+     * @param savedInstanceState
+     */
+
     @SuppressWarnings("ResourceType")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
